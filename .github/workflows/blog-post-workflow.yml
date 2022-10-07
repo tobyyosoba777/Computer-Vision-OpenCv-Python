@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: tobyyosoba777/blog-post-workflow@v1
         with:
           max_post_count: "4"
           remove_duplicates: true
