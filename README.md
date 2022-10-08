@@ -26,6 +26,10 @@ I am Tobi
 [![website](./img/instagram-dark.svg)](https://instagram.com/toby_osoba#gh-dark-mode-only)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
+[![website](./img/icons8-linkedin-circled.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-light-mode-only)
+[![website](./img/icons8-linkedin-circled-dark.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-dark-mode-only)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 [![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-light-mode-only)
 [![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-dark-mode-only)
 
@@ -37,7 +41,7 @@ I am Tobi
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][instagram]
@@ -73,3 +77,4 @@ in your python terminal/CMD/anaconda prompt run "pip install opencv-python" and 
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[html]: https://html.com
