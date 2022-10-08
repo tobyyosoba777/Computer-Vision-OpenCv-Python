@@ -1,7 +1,8 @@
 # Computer-Vision-OpenCv-Python-
 
 
-# Hi there, I'm Tobi 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+I am Tobi
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/towbbie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%towbbie&screen_name=towbbie)
 
