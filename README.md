@@ -27,8 +27,8 @@ I am Tobi
 [![website](./img/instagram-light.svg)](https://instagram.com/toby_osoba#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/toby_osoba#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-light-mode-only)
-[![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-dark-mode-only)
+[![website](./img/stack-overflow-light.svg)](https://https://stackoverflow.com/users/17608129/toby#gh-light-mode-only)
+[![website](./img/stackoverflow-dark.svg)](https://https://stackoverflow.com/users/17608129/toby#gh-dark-mode-only)
 
 
 
