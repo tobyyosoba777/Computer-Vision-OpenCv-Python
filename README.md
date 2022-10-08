@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][]
@@ -51,6 +51,7 @@ OpenCv Library using Python, this repository contains the basic operations cente
 
 in your python terminal/CMD/anaconda prompt run "pip install opencv-python" and wait for the download to be completed, install Cmake and dlib desktop application, they are cross platform libraries written in C++ also supported by Python, so yeah.. that is just it...
 
+[vscode]:https://code.visualstudio.com/
 [instagram]:https://instagram.com/toby_osoba
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
