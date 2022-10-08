@@ -24,13 +24,19 @@ I am Tobi
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/toby_osoba#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/toby_osoba#gh-dark-mode-only)
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+[![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-light-mode-only)
+[![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-dark-mode-only)
+
+
 
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vs]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][]
@@ -55,7 +61,7 @@ OpenCv Library using Python, this repository contains the basic operations cente
 
 in your python terminal/CMD/anaconda prompt run "pip install opencv-python" and wait for the download to be completed, install Cmake and dlib desktop application, they are cross platform libraries written in C++ also supported by Python, so yeah.. that is just it...
 
-[vscode]:https://code.visualstudio.com/
+[vscode]:https://code.visualstudio.com
 [instagram]:https://instagram.com/toby_osoba
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
