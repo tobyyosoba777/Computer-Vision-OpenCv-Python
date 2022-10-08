@@ -15,7 +15,7 @@ I am Tobi
 - 🥅 2022 Goals: Learn more about Machine and deep learning
 - ⚡ Fun fact: I love to draw as well
 
-### Connect with me:
+### Socials:
 
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/towbbie#gh-light-mode-only)
