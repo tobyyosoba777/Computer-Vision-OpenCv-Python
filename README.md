@@ -40,6 +40,8 @@ I am Tobi
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;" />][OpenCv]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />][tensorflow]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][jupyter]
+
 
 
 
@@ -59,4 +61,4 @@ in your python terminal/CMD/anaconda prompt run "pip install opencv-python" and 
 [OpenCv]: https://opencv.org/
 [tensorflow]: https://www.tensorflow.org/
 [vscode]:https://code.visualstudio.com
-
+[jupyter]:
