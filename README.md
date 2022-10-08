@@ -21,14 +21,11 @@ I am Tobi
 [![website](./img/twitter-light.svg)](https://twitter.com/towbbie#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/towbbie#gh-dark-mode-only)
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/toby_osoba#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/toby_osoba#gh-dark-mode-only)
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 [![website](./img/icons8-linkedin-circled.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-light-mode-only)
 [![website](./img/icons8-linkedin-circled-dark.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-dark-mode-only)
-&nbsp;&nbsp;
 &nbsp;&nbsp;
 [![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-light-mode-only)
 [![website](./img/.svg)](https://www.linkedin.com/in/tobi-osoba-4a3090252#gh-dark-mode-only)
