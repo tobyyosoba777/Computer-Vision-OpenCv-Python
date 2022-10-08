@@ -38,6 +38,7 @@ I am Tobi
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;" />][OpenCv]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS3]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][JavaScript]
@@ -64,6 +65,7 @@ OpenCv Library using Python, this repository contains the basic operations cente
 in your python terminal/CMD/anaconda prompt run "pip install opencv-python" and wait for the download to be completed, install Cmake and dlib desktop application, they are cross platform libraries written in C++ also supported by Python, so yeah.. that is just it...
 
 [Python]: https://www.python.org/
+[OpenCv]: https://opencv.org/
 [vscode]:https://code.visualstudio.com
 [html5]: https://html.com
 [CSS3]: https://www.w3schools.com/css/css_intro.asp
