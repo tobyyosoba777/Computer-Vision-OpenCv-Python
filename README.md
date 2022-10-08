@@ -60,5 +60,5 @@ in your python terminal/CMD/anaconda prompt run "pip install opencv-python" and 
 [Python]: https://www.python.org/
 [OpenCv]: https://opencv.org/
 [tensorflow]: https://www.tensorflow.org/
-[vscode]:https://code.visualstudio.com
-[jupyter]:
+[vscode]: https://code.visualstudio.com
+[jupyter]: jupyter.org
