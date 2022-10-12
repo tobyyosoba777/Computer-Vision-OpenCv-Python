@@ -10,7 +10,7 @@
 
 # Getting Started With Computer Vision In Python
 
-### installation
+## installation
 I would recommend using the anaconda distribution for this
 
 head to https://repo.anaconda.com/archive/
@@ -24,6 +24,8 @@ open up your Python terminal or Command Prompt and run the following Command
  and wait for the pip to install the package. Documentations for opencv library can be found in https://pypi.org/project/opencv-python/
 
 close the terminal, and open up your Python IDE where the opencv package has been installed to, i would recommend using Spyder or Jupyter Notebook
+
+
 
 ### Socials:
 
@@ -62,9 +64,7 @@ close the terminal, and open up your Python IDE where the opencv package has bee
 
 
 
-OpenCv Library using Python, this repository contains the basic operations centered around reading, displaying and saving images and video files in python using the OpenCv Library
 
-in your python terminal/CMD/anaconda prompt run "pip install opencv-python" and wait for the download to be completed, install Cmake and dlib desktop application, they are cross platform libraries written in C++ also supported by Python, so yeah.. that is just it...
 
 [Python]: https://www.python.org/
 [OpenCv]: https://opencv.org/
