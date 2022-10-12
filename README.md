@@ -8,7 +8,10 @@
 
 
 
-## Getting Started With Compyter
+## Getting Started With Computer Vision In Python
+
+### installation
+I would recommend using the anaconda distribution for this
 
 
 ### Socials:
