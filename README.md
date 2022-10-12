@@ -19,7 +19,7 @@ find the distribution that suits your OS and download and install it on your PC 
 
 open up your Python terminal or Command Prompt and run the following Command
 
-`"pip install opencv-python"`
+### `pip install opencv-python`
 
  and wait for the pip to install the package. Documentations for opencv library can be found in https://pypi.org/project/opencv-python/
 
