@@ -2,18 +2,14 @@
 
 
 ## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
-I am Tobi
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/towbbie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%towbbie&screen_name=towbbie)
 
 
 
 
-## I'm a student and a programmer
-- 🌱 I’m currently learning Python and react
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Learn more about Machine and deep learning
-- ⚡ Fun fact: I love to draw as well
+## Getting Started With Compyter
+
 
 ### Socials:
 
@@ -34,7 +30,7 @@ I am Tobi
 
 
 
-### Tech Stack:
+### Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
