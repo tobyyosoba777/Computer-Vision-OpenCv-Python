@@ -13,7 +13,16 @@
 ### installation
 I would recommend using the anaconda distribution for this
 
-head to https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
+head to https://repo.anaconda.com/archive/
+
+find the distribution that suits your OS and download and install it on your PC with the environment variables added to your PATH
+
+open up your Python terminal or Command Prompt and run the following Command
+
+"pip install opencv-python"
+
+wait for the pip to install the package, documentations for opencv library can be found in https://pypi.org/project/opencv-python/
+
 
 ### Socials:
 
@@ -39,7 +48,6 @@ head to https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;" />][OpenCv]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />][tensorflow]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][jupyter]
 
 
