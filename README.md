@@ -12,6 +12,7 @@
 
 ### installation
 I would recommend using the anaconda distribution for this
+
 head to https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
 
 ### Socials:
