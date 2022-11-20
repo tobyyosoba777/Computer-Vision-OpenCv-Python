@@ -15,6 +15,6 @@ if img is None:
 cv2.imshow("image", img)
 key = cv2.waitKey(0)
 if key == ord('s'):
-    cv2.imwrite("caro.png", img)
+    cv2.imwrite("images/caro.png", img)
 elif key == ord('q'):
     cv2.destroyAllWindows()

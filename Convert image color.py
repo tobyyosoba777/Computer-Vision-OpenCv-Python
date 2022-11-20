@@ -2,7 +2,7 @@
 
 import cv2
 #reading the image
-img = cv2.imread("car2.png")
+img = cv2.imread("images/car2.png")
 #if we display this image using imshow() function, then we can see that this image is in BGR format
 #Now, use cvtColor() function to convert this image to grayscale
 
