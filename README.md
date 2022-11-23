@@ -35,15 +35,15 @@ this repository contains the basic operations centered around reading, displayin
 ### Socials:
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/towbbie#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/towbbie#gh-dark-mode-only)
+[![website](https://github.com/tobyyosoba777/tobyyosoba777/blob/main/img/twitter-light.svg)](https://twitter.com/towbbie#gh-light-mode-only)
+[![website](https://github.com/tobyyosoba777/tobyyosoba777/blob/main/img/twitter-dark.svg)](https://twitter.com/towbbie#gh-dark-mode-only)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/toby_osoba#gh-light-mode-only)
+[![website](https://github.com/tobyyosoba777/tobyyosoba777/blob/main/img/instagram-light.svg)](https://instagram.com/toby_osoba#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/toby_osoba#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/stack-overflow-light.svg)](https://stackoverflow.com/users/17608129/toby#gh-light-mode-only)
-[![website](./img/stackoverflow-dark.svg)](https://stackoverflow.com/users/17608129/toby#gh-dark-mode-only)
+[![website](https://github.com/tobyyosoba777/tobyyosoba777/blob/main/img/stack-overflow-light.svg)](https://stackoverflow.com/users/17608129/toby#gh-light-mode-only)
+[![website](https://github.com/tobyyosoba777/tobyyosoba777/blob/main/img/stackoverflow-dark.svg)](https://stackoverflow.com/users/17608129/toby#gh-dark-mode-only)
 
 
 
