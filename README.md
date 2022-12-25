@@ -16,7 +16,7 @@ open up your Python terminal or Command Prompt, ensure you have a stable interne
 ### `pip install opencv-python`
 
 ## or
-open the terminal or command prompt where the "requirements.txt" file is present on your PC, you can find it in the libraries folder on this repository, then run the following command
+open the terminal or command prompt where the "requirements.txt" file is present in your terminal's current directory, you can find it in the libraries folder on this repository, then run the following command
 
 ### `pip install -r requirements.txt`
 
